@@ -1,4 +1,4 @@
-# Storage for processed data for "Spatial multiomics of human hepatic lymph nodes reveals early APC bifurcation in liver transplant rejection"
+# Processed data storage for "Spatial multiomics of human hepatic lymph nodes reveals early APC bifurcation in liver transplant rejection"
 ## 📂 Contents
 
 ### 🧬 Multiplexed Immunofluorescence (mxIF)
