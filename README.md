@@ -5,7 +5,7 @@
 
 ### 🧬 Multiplexed Immunofluorescence (mxIF)
 Processed spatial protein expression data from multiplexed immunofluorescence (mxIF) imaging.  
-These datasets contain quantified marker intensities, cell-level segmentation results, and associated metadata.
+These datasets contain quantified marker intensities, cell classification results, cellular neighborhoods, and associated metadata.
 
 **Files:**
 - `OLT_mxIF_Non_Rejection.h5ad` — Processed mxIF data for non-rejection samples  
